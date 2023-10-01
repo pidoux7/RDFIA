@@ -7,6 +7,6 @@ Course 1 : Visual (local) feature detection and description, Bag of Word Image r
 
 TME 1: SIFT (Scale-invariant feature transform) + SVM 
 
-Course 2 : 
+Course 2 : Neural nets
 
-TME 2 : 
+TME 2 : Neural nets pytorch-like
