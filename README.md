@@ -1,5 +1,5 @@
 <p>
-  <img src="CV.jpg" alt="xai" align="center">
+  <img src="cv.jpg" alt="xai" align="center">
 </p>
 
 
